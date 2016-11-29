@@ -2,7 +2,8 @@
 
 > Elegant [Rxvt-unicode](https://en.wikipedia.org/wiki/Rxvt-unicode) theme with bright colors
 
-![](screenshot.png)
+![](Screenshot.png)
+![](Screenshot2.png)
 
 ## Install
 
@@ -29,7 +30,7 @@
 *color7:      wht
 *color15:     wht
 ```
-
+- Alternatively, you can copy the `.Xresources` file directly from this repo which also sets the right font. (You will need to have the Menlo font installed)
 
 ## Tip
 
@@ -40,7 +41,7 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 
 - [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Hyper version
 - [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
-- [urxvt-snazzy](https://github.com/LeonGr/urxvt-snazzy) - Rxvt-unicode version
+- [terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy) - Terminal version
 
 
 ## License
