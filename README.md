@@ -4,7 +4,7 @@
 
 ![](Screenshot.png)
 ![](Screenshot2.png)
-![](Screenshot4.png)
+![](Screenshot3.png)
 
 ## Install
 
