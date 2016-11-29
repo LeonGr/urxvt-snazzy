@@ -6,7 +6,8 @@
 
 ## Install
 
-- Add these colors to your `.Xresources` file:
+- Add these colour settings to your `.Xresources` file:
+```
 *background:   bg
 *foreground:   fg
 *cursorColor:  cyn
@@ -27,7 +28,7 @@
 *color14:     cyn
 *color7:      wht
 *color15:     wht
-
+```
 
 
 ## Tip
