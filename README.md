@@ -60,4 +60,4 @@ To get the exact same look as in the screenshot, you need to use the [Pure](http
 
 ## License
 
-MIT © [Leon Grasmeijer](mailto:leongrasmeijer@gmail.com)
+MIT © Leon G, mail _at_ leongr _dot_ nl
